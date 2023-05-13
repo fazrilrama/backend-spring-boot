@@ -15,7 +15,7 @@ Build Restful CRUD API for a simple Note-Taking application using Spring Boot, M
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/callicoder/spring-boot-mysql-rest-api-tutorial.git
+git clone https://github.com/fazrilrama/backend-spring-boot.git
 ```
 
 **2. Create Mysql database**
@@ -59,9 +59,3 @@ The app defines following CRUD APIs.
     DELETE /api/notes/{noteId}
 
 You can test them using postman or any other rest client.
-
-## Learn more
-
-You can find the tutorial for this application on my blog -
-
-<https://www.callicoder.com/spring-boot-rest-api-tutorial-with-mysql-jpa-hibernate/>
